@@ -1,0 +1,13 @@
+name = "Cruor"
+filename = "cruor-forge-1.20.1-0.1.5-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dff44f827719e937bc741ce955a3f67412f8c1a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9484420
+project-id = 1729277

@@ -1,0 +1,13 @@
+name = "tacznpcs-2.1.0-1.20.1"
+filename = "tacznpcs-2.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A3oZ8vhW/versions/Nvq2rJvB/tacznpcs-2.1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "26367a3ab0a99ac66cf3356b0241a1f719e0cf1173a5a6476c00bc357546a188a812d3b8d4dd6dfe3077cf2095e273fe649a90b62df68435414db460b0137af2"
+
+[update]
+[update.modrinth]
+mod-id = "A3oZ8vhW"
+version = "Nvq2rJvB"

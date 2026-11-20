@@ -1,0 +1,13 @@
+name = "Rummage"
+filename = "Rummage-1.20.1-forge-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36ea0fe023abf15564a851e568ad6befc890e81b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7793750
+project-id = 1477641

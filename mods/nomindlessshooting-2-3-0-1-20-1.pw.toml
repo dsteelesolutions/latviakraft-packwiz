@@ -1,0 +1,13 @@
+name = "nomindlessshooting-2.3.0-1.20.1"
+filename = "nomindlessshooting-2.3.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gEq2MvUA/versions/zMs3HmuR/nomindlessshooting-2.3.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "b2fb2a612fdf81cc178799e5c9771cd57501b7a5db08eaa7a048024cd2c46c4b39150009a0a8bad78fb7e0ba6208f39a835935e29f52e2514d57917b0704f99a"
+
+[update]
+[update.modrinth]
+mod-id = "gEq2MvUA"
+version = "zMs3HmuR"

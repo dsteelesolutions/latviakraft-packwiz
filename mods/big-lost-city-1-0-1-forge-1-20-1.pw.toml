@@ -1,0 +1,13 @@
+name = "big_lost_city-1.0.1-forge-1.20.1"
+filename = "big_lost_city-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lMtLn3EL/versions/qqYqRCly/big_lost_city-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "af5e781e455b25babd3be6db0b38b01ad34de5d5ff6fde9fb1adac62a2d98e2b2db910b525afa8a088e5ce8a30b0abe2ab515ae1b4b34bd3276d9102dcd9cab9"
+
+[update]
+[update.modrinth]
+mod-id = "lMtLn3EL"
+version = "qqYqRCly"

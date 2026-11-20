@@ -1,0 +1,1 @@
+key_key.corpsebound.open_loot:key.keyboard.b

@@ -1,0 +1,13 @@
+name = "Gunfire Overhaul-0.1.6-a"
+filename = "Gunfire Overhaul-0.1.6-a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WefRGWUv/versions/v66cebf5/Gunfire%20Overhaul-0.1.6-a.jar"
+hash-format = "sha512"
+hash = "2e67fda5927fe55e4ec5c91dcfafe269c90d16486b611f7fbf548fa9717cd8a1980b74037a2794b7fa86bec95e57c13d22536298181ed72f0802d19cb8df6213"
+
+[update]
+[update.modrinth]
+mod-id = "WefRGWUv"
+version = "v66cebf5"

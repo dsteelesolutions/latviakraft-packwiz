@@ -1,0 +1,13 @@
+name = "Corpsebound"
+filename = "Corpsebound_beta-0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfab2e6967c61c148c1b0b3f6fa197507ffc95dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9485597
+project-id = 1670556

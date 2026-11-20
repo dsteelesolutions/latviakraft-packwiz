@@ -1,0 +1,13 @@
+name = "HundredYearsWar-0.8.0r-fix2-1.20.1-forge"
+filename = "HundredYearsWar-0.8.0r-fix2-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sGwWd97l/versions/iHmM641J/HundredYearsWar-0.8.0r-fix2-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "63840bf300d0e907278ff00515d83bf01659ff9135cfbaf0a79693cd4ddb6ad9bd1b94b5cfe52f88e648e7474d55477ea06ff141c3b52933a0e12f8cef624a3d"
+
+[update]
+[update.modrinth]
+mod-id = "sGwWd97l"
+version = "iHmM641J"

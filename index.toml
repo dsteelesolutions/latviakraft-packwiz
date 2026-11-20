@@ -1,0 +1,475 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/K-Turrets-3.0.48-1.20.1.jar"
+hash = "3e635d68ec5db70bea3d0d9019f128e7696a2b69cf3e16505b1b4c1f3268555c"
+
+[[files]]
+file = "mods/ai-improvements-1-20-0-5-2.pw.toml"
+hash = "32a87ab815e03a3e94d14bac2db7b5bc50b635733bf08a9aef4e4e467168390f"
+metafile = true
+
+[[files]]
+file = "mods/alexsmobs-1-22-9.pw.toml"
+hash = "76533f22f95b514acf79e7bbf2bb55a1099caac1f0b535e957716a98ce7b26f3"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds-forge-v6-3-11-mc1-20-1.pw.toml"
+hash = "0613fde3be19d70eaa4b6e0f1ef1b9882c418fcde113ff3e016f693e436806f9"
+metafile = true
+
+[[files]]
+file = "mods/architectury-9-2-14-forge.pw.toml"
+hash = "20455c2e2d030c944db7516c1ea32bbdf5a6e0ee0bf5c2e8aeb3865181a7eece"
+metafile = true
+
+[[files]]
+file = "mods/ballistix-1-20-1-1-1-1.pw.toml"
+hash = "dbf859199db87574c63a3fa13afb93976638a02ae6e0680892896f0f936ea423"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "cc17fd6e85be435f0141ff78ce81233e0645414f6ec5bc1db112a26a79204822"
+metafile = true
+
+[[files]]
+file = "mods/big-lost-city-1-0-1-forge-1-20-1.pw.toml"
+hash = "93578e5718db751c0988eca8651c567150bdd8665e8df2cee82e0e0f459346df"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-forge-1-20-1-20-2-15.pw.toml"
+hash = "aec312434f224bc89ffa1cd95b221dc7aaf5e785c59f227cf289bfc366f556c9"
+metafile = true
+
+[[files]]
+file = "mods/caracal-mod.pw.toml"
+hash = "a7980e733c5cc60fe2c05a7b4bef720b46826a41f690de0cdf8ffbb4f819ef20"
+metafile = true
+
+[[files]]
+file = "mods/citadel-2-6-3-1-20-1.pw.toml"
+hash = "a32c8311cd3309f1afefa12f705dbcd8969fd7a8e1c645a37094e4fb6689ceb4"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-11-1-136-forge.pw.toml"
+hash = "307c8fe03c3a2d0ea63606a5a0682cfc0841556481a0d771107511812ba4cfb6"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
+file = "mods/corpsebound.pw.toml"
+hash = "0da2497f161addcc20a260b708e74a2545e4aaf8357cb610d70048d9f9c109d3"
+metafile = true
+
+[[files]]
+file = "mods/creativecore-forge-v2-12-40-mc1-20-1.pw.toml"
+hash = "229dc9a829761b372c5e81c468e97ca6c21e4c60acd5a0d23b62ed9930fa85e2"
+metafile = true
+
+[[files]]
+file = "mods/cruor.pw.toml"
+hash = "796a75bab98e330dc4e5503e43dbf6e06f5f49988d9b61b41ab2a3da47e3b4c4"
+metafile = true
+
+[[files]]
+file = "mods/curios-forge-5-14-1-1-20-1.pw.toml"
+hash = "b25e2a15de487eeac4db8fa3179254a71ab148f5d29fef3d26ad11beda154633"
+metafile = true
+
+[[files]]
+file = "mods/deltaforce-melee-pack-0-2-0.pw.toml"
+hash = "0d5f8242afa014ecd8dfd694209af3bb51ebadd76f35bbe46393ef4972ce4281"
+metafile = true
+
+[[files]]
+file = "mods/doomsday-decoration.pw.toml"
+hash = "4bed02ba32527c13d8ad2858b45dd58bf48f7b22de83f4ecc79f7712426ef2ae"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-config-ui-forge-1-20-1-7-19-0.pw.toml"
+hash = "896f76071a4f5950cb8623c1115f6109fd66b4fe2385f2811544c10d96663684"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-forge-1-20-1-7-19-0.pw.toml"
+hash = "7fa4d20f961572c951d0b9f5fd084f9615cd135e72e4620996c112d97efe8efd"
+metafile = true
+
+[[files]]
+file = "mods/farmersdelight-1-20-1-1-3-4.pw.toml"
+hash = "4074fdd89fc90e35194b71892248a383cdf31e6df4ff35b768b92da0421d99a0"
+metafile = true
+
+[[files]]
+file = "mods/fastload-reforged-mc1-20-1-3-4-0.pw.toml"
+hash = "c978203a0fb61a2d1ee06c8eee37cb1c2fc87fa0db69695262aed2db9534d949"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-6-0-1-forge.pw.toml"
+hash = "b536b7c2aab5431fcaedb99fc73974c056c3f16a267fa0e7c3944fecd7a6dc82"
+metafile = true
+
+[[files]]
+file = "mods/fibers-guns-pack-for-tacz.pw.toml"
+hash = "66601e1c4e3568896dc0ec3ef92787be9b96ef7cf2f6c4014897a314023a3d9e"
+metafile = true
+
+[[files]]
+file = "mods/firstaid-1-3-5-forge1-20-1.pw.toml"
+hash = "5a297168f040825abbb38ead887a5ef999c544b67c65f0240c028860274278d6"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "7b2cc450f553b82439ae9422b8c2b4406dae1af3c48f7ce791a3576acff1d122"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config-0-7-7-1-20-1-forge.pw.toml"
+hash = "388bb46661adf490b9d435fa78d954f28f0a7517ca90d60f471c22d230aa600c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+metafile = true
+
+[[files]]
+file = "mods/grid-inventory.pw.toml"
+hash = "8e1e832cbc56cb9ff7089d530da76df49676d72b758209d92840eac62017be86"
+metafile = true
+
+[[files]]
+file = "mods/guccivuitton-1-20-1-0-2-2.pw.toml"
+hash = "7cad14846d030ae12f76f32d8aefab1bded4d8159e4ff6785947f10960f74ae3"
+metafile = true
+
+[[files]]
+file = "mods/gunfire-overhaul-0-1-6-a.pw.toml"
+hash = "3268d53e836b245f440a82e9f1e35c672f3d56e59cd45f3b10fc453576ba4480"
+metafile = true
+
+[[files]]
+file = "mods/hundredyearswar-0-8-0r-fix2-1-20-1-forge.pw.toml"
+hash = "531f0eff1e02debcb5b6daebd9d92a71d43cc91328e87428a68f23334a6d427a"
+metafile = true
+
+[[files]]
+file = "mods/iceberg-1-20-1-forge-1-1-25.pw.toml"
+hash = "bbc1a935b7de5fe9847456ebea340c69f21af9756c708b9a2408ad7160fb57f5"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft-1-5-0-1-20-1-forge.pw.toml"
+hash = "f3da6ceb14624858f3e7d04139d21ccd79a9a8a2c213a3d0591e5f9b4ed25051"
+metafile = true
+
+[[files]]
+file = "mods/immersive-ballistic-1-3.pw.toml"
+hash = "913656a9779953c9f3829f3f5babbe535b0367b058aee20aeb5aa8ba0b1d64f2"
+metafile = true
+
+[[files]]
+file = "mods/incontrol-1-20-9-5-1.pw.toml"
+hash = "f43e9f150bb268ac9eeac1691a1847bc33114fe7d400ddbb233d40a95aa0b061"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib-1-20-1-2-3-0.pw.toml"
+hash = "b8e91f6e3a333724dcbb9b3f808d99261e610c96870e8e9f6d24f873061c305a"
+metafile = true
+
+[[files]]
+file = "mods/irons-spellbooks-1-20-1-3-16-3.pw.toml"
+hash = "de2d71893a762fcc572385304a32fa6c2bf057b428b035fee0264edcd1429792"
+metafile = true
+
+[[files]]
+file = "mods/jei-1-20-1-forge-15-74-0-232.pw.toml"
+hash = "bc1948dda1215898ea63702721e8060e934d3ee45f89d0873dc08fcd6f744106"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-forge-1-20-1-6-0-7.pw.toml"
+hash = "67980289777475d051af530d7b35a32da588ff8965122baeaac8593b9e322e42"
+metafile = true
+
+[[files]]
+file = "mods/killstreak-1.1.4.jar"
+hash = "98c34b7c702278f8669d180d2a181a7a5e7f8e0d775a80bbf3d79792a3b169b8"
+
+[[files]]
+file = "mods/kotlinforforge-4-12-0-all.pw.toml"
+hash = "afaa9aa53a64e0eee95e2d3d7aa6c3a44b9fb9531c9eea6a6b2de273cb7d040e"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
+file = "mods/l-enders-cataclysm-3-31.pw.toml"
+hash = "e11c0bafc2e3348498a4a104eacfaebe082e7058269c0a10fc9e41b73af6a030"
+metafile = true
+
+[[files]]
+file = "mods/lionfishapi-3-0.pw.toml"
+hash = "ceb03c2c21a147da2aab891f7e24f01983cfa932bc61c5c062dc0ca3dde104b0"
+metafile = true
+
+[[files]]
+file = "mods/lostcities-1-20-7-5-7.pw.toml"
+hash = "1b01c6b29868f4c4cd0ddffb0e23c3d99de9f5865c7790601f71e9348f0b6db4"
+metafile = true
+
+[[files]]
+file = "mods/lradd-1-20-1-0-3-0.pw.toml"
+hash = "776eb77d488e256a21a98496c64c0a7d574083de60f9da84aff6aecfb88252bc"
+metafile = true
+
+[[files]]
+file = "mods/lrarmor-1-20-1-0-1-4-4.pw.toml"
+hash = "41c69ecbf78515ba940bae0378d1101e78e7b07731367c0edefe472bdb27e3fd"
+metafile = true
+
+[[files]]
+file = "mods/lrtactical-1-20-1-0-4-3.pw.toml"
+hash = "6ff25a833d8f406cad469b15a7b4d39e01081f5351562f7bbe3529d2ba9c9987"
+metafile = true
+
+[[files]]
+file = "mods/marbledsarsenal-1-20-1forge-2-4-0-0.pw.toml"
+hash = "4c28f7a1e2bd9d6b070414dbb29d6987edda313cd3ae362f6d0af01320931a0a"
+metafile = true
+
+[[files]]
+file = "mods/mcore-1-20-1-1-0-3-0.pw.toml"
+hash = "efa48debdef82668dfbbc5b977340d1caf4a7f9e4f8ba5ff35f01371b303015f"
+metafile = true
+
+[[files]]
+file = "mods/mezz-config-1-20-1-forge-0-6-10.pw.toml"
+hash = "3794df953069bcc5f4b96406845e53aac6a2c585b3c315e7a0c4fb330d08361b"
+metafile = true
+
+[[files]]
+file = "mods/mob-text-bubbles.pw.toml"
+hash = "e06ea572efc82104cc757d33ce3e563698873e814177fe7f8ee06a3ed6a676a8"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-forge-5-27-91-mc1-20-1.pw.toml"
+hash = "14699ca0987c2ae04b33e250c5d858d64488a59e76fb0d05765bd61a62a8634d"
+metafile = true
+
+[[files]]
+file = "mods/mowziesmobs-1-8-2.pw.toml"
+hash = "c83e87ef2fb9793ed028fc7bab8ad533e661287a81a73a11272caf815d1356cf"
+metafile = true
+
+[[files]]
+file = "mods/nomindlessshooting-2-3-0-1-20-1.pw.toml"
+hash = "c154eca8ba184b6b1366a074cf07c30c9ae58bf22d6bcd8ad7ddbcb90a1f5e41"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-1-20-1-85-forge.pw.toml"
+hash = "ca343e7771c2953593edb530a008c587446f87a17c0eddd4b59c3facc56f8e45"
+metafile = true
+
+[[files]]
+file = "mods/pillagers-gun.pw.toml"
+hash = "1e9aed53fd55908a255aff1434fdf7cb389b7ca8c82942d8974999765be18e32"
+metafile = true
+
+[[files]]
+file = "mods/placebo-1-20-1-8-6-3.pw.toml"
+hash = "309ab66c0e975eeee3394443561f99c8f0f9b64d141957e0e62c1d0d700b60f5"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-lib-forge-1-0-2-rc1-1-20.pw.toml"
+hash = "acd1ab294ead7b3c7f3e8cce9bc6b2fb0924aa5a87f2002b6f64565046106f5d"
+metafile = true
+
+[[files]]
+file = "mods/puzzleslib-v8-1-36-1-20-1-forge.pw.toml"
+hash = "2393024593e22d1e169c8776f3d2ad00cc7c5623c1b2e8ebfd40c6f8487c8f8c"
+metafile = true
+
+[[files]]
+file = "mods/radium-mc1-20-1-0-12-4-git-26c9d8e.pw.toml"
+hash = "5f148e502afc0269dda45042b6e1ec47723a7ef22bb1d4506510eb72bee74bf9"
+metafile = true
+
+[[files]]
+file = "mods/raritycore-1201-14-4.pw.toml"
+hash = "81dbc15c4d56afc7d0046e6c8b059dde5a1ba9a9f63ab882421137675ca02853"
+metafile = true
+
+[[files]]
+file = "mods/resourcefullib-forge-1-20-1-2-1-29.pw.toml"
+hash = "c8cd95ca648c4beeb091e33aae9e82a46a9ce94228b5b41a359ce059ba84b106"
+metafile = true
+
+[[files]]
+file = "mods/rummage.pw.toml"
+hash = "5c1857eb8522f46857cadbb38e4ee34f3d929c1ef99350cd9f3c8533a42566fd"
+metafile = true
+
+[[files]]
+file = "mods/satako-library.pw.toml"
+hash = "30076e93ceeaa56a96abb369284576f8d917459de48f5166f986ee7af156c470"
+metafile = true
+
+[[files]]
+file = "mods/sdm-economy.pw.toml"
+hash = "863a9c82cf92d3d97895216587d7ccf95fd32ae2965bbf16ee41ece03c57d36b"
+metafile = true
+
+[[files]]
+file = "mods/sdm-ui-lib-forge-1-20-1-1-8-3.pw.toml"
+hash = "2880f20c3606e6cf0e6c9702df5c527690b6a4bd53002f14cb2ea5110f93c767"
+metafile = true
+
+[[files]]
+file = "mods/sdmshop-forge-1-20-1-7-2-2.pw.toml"
+hash = "763bef9f45148f43c96449796873597d7d7c2f06e7066f64c5fa7154f26337ef"
+metafile = true
+
+[[files]]
+file = "mods/shouldersurfing-forge-1-20-1-5-2-0.pw.toml"
+hash = "f157bc8f65f3e25a75a5ef03213e419e5c68e6fcf5153211f4adc46aaec06223"
+metafile = true
+
+[[files]]
+file = "mods/simplytooltips-forge-0-1-5-1-20-1.pw.toml"
+hash = "b8e858fa71dea5c1480ccfc3b4f5b0c24d02412cf3f243d2264e25458b1f3e3b"
+metafile = true
+
+[[files]]
+file = "mods/smallships-forge-1-20-1-2-0-0-b1-4.pw.toml"
+hash = "f7cd29d0d61f4e30148afa31577553246fd958bedc84a05a63ba9a9535b73df3"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "8d3e9ef52ac3b65fb976629b55652ca30f9ad8b7ff37925c3111ae78386e1a97"
+metafile = true
+
+[[files]]
+file = "mods/suppressionmod-1.1.1.jar"
+hash = "a300cce97ca128b5e97954f9fdb269f7de3b3478243e655279371e276fcb0896"
+
+[[files]]
+file = "mods/tacz-1-20-1-1-1-8-hotfix.pw.toml"
+hash = "e4132ca7fb2b1d5f8616fec0b1d0cad835141e2cfdc2bdb06dd90e65ecbca947"
+metafile = true
+
+[[files]]
+file = "mods/tacz-hostiles.pw.toml"
+hash = "21ebe7a9d651d72dc3942e602219785427b2b197482001dd317f07e07d11c706"
+metafile = true
+
+[[files]]
+file = "mods/tacz-tweaks-2-14-2-all.pw.toml"
+hash = "bf799bcbd53555e115a62ccacc99f7f6adcc6fbd9949c101210d5779ebcd0586"
+metafile = true
+
+[[files]]
+file = "mods/tacz-wall-display-1.20.1-forge-0.6.33.jar"
+hash = "95497dc48414b6432a8b8fcef4c7a13c8c951ad690614bb84223f863829ca9a4"
+
+[[files]]
+file = "mods/taczaddon-1-1-8-2-fix-forge-1-20-1.pw.toml"
+hash = "1c0c6fbffda0c343e6b2f68007546dca9ab7b838d4a63826d0506a2554d18011"
+metafile = true
+
+[[files]]
+file = "mods/tacznpcs-2-1-0-1-20-1.pw.toml"
+hash = "65443091683cfcaf246718474622bef0eed9e05c93ef4b9a72e324a8c900bdcf"
+metafile = true
+
+[[files]]
+file = "mods/taczpvpattr-1.0.0-forge-1.20.1.jar"
+hash = "b9c310cb0c259fba185d8b9d27cf1833a59408b8ca2a6528862a28c3ee12f15c"
+
+[[files]]
+file = "mods/tarkovdayz-1.0.2-forge-1.20.1.jar"
+hash = "0e8b0e80c8b56ac01bb9bd2bcd90944ec95603ca3200253d8db593f8dd3b3bd1"
+
+[[files]]
+file = "mods/third-person-shooting.pw.toml"
+hash = "b14da9359f04d2ada03cdfbba15d8692eeb4fdfefc2f2964ef58c6184c9e02af"
+metafile = true
+
+[[files]]
+file = "mods/toastcontrol-1-20-1-8-0-3.pw.toml"
+hash = "672fd740496ab8ba902fd8dd7751aa2cd6b3143d221d6c053ca4bad6a6c1a704"
+metafile = true
+
+[[files]]
+file = "mods/trajans-core.pw.toml"
+hash = "72ae8b02bd294a16e72faa66e3cae9a190c423e9d3a67dcc9dacee7c7c0d1acd"
+metafile = true
+
+[[files]]
+file = "mods/trajans-tanks.pw.toml"
+hash = "add125a440bf274d35d4d68ae64c1f873dc4e572ddc832dcfaed6a6db58dbf2f"
+metafile = true
+
+[[files]]
+file = "mods/vaskars-remains.pw.toml"
+hash = "6aafba23c81b17aa4b8d90b53636d4597f5845d3d205f3d454e21a58f0acd2c0"
+metafile = true
+
+[[files]]
+file = "mods/voltaic-1-20-1-1-0-13.pw.toml"
+hash = "62c3e039923334b5037ef1290391f31005007c3a1f2cd9b29a7dc1a96b4fa473"
+metafile = true
+
+[[files]]
+file = "mods/waystones-forge-1-20-1-14-1-21.pw.toml"
+hash = "c7ce93951ad042eb719ef07be20cb5e261506f30a272ec16958ac22a0469fa87"
+metafile = true
+
+[[files]]
+file = "mods/yet-another-config-lib-v3-3-6-6-1-20-1-forge.pw.toml"
+hash = "26ba124c11f5112742d648d778c31bbea2209d7d79bef84b8f5bad3be3d30fe4"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3fa7fe0aa4590002dd02e92b40673a0370fb150f6ab84f4e2f3d5762a442f8a1"
+preserve = true
+
+[[files]]
+file = "servers.dat"
+hash = "b01f68eeb6c9c7ee3a905564d15dc15df4c3777d659c2389cc3203683b8872d8"
+preserve = true

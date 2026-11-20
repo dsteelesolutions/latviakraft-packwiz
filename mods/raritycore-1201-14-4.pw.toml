@@ -1,0 +1,13 @@
+name = "raritycore-1201.14.4"
+filename = "raritycore-1201.14.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EtlqmUU6/versions/8MY7jPO4/raritycore-1201.14.4.jar"
+hash-format = "sha512"
+hash = "5d41cce3df2e1a9e50873a497c80b35e0413df2008e1af161e41d21864f397041acc54be42919078318e8a8a5bd80d53923c9f03a1aa316d4b260563af6d24d7"
+
+[update]
+[update.modrinth]
+mod-id = "EtlqmUU6"
+version = "8MY7jPO4"

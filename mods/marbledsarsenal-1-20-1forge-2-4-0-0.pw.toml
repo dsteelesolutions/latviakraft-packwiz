@@ -1,0 +1,13 @@
+name = "marbledsarsenal-1.20.1forge-2.4.0.0"
+filename = "marbledsarsenal-1.20.1forge-2.4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBB5TIXx/versions/H1zTw3ka/marbledsarsenal-1.20.1forge-2.4.0.0.jar"
+hash-format = "sha512"
+hash = "f41610ed9a73efdd16bfbe9749d6972536338f1b1a4fe3a48d839072bc112a63b3d1c1c739ec33cefea915ce69cbb4ded38a01780abae762925e8895815864be"
+
+[update]
+[update.modrinth]
+mod-id = "GBB5TIXx"
+version = "H1zTw3ka"

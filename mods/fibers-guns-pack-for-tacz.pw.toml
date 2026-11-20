@@ -1,0 +1,13 @@
+name = "Fibers' Guns Pack for TACZ"
+filename = "Fibers Gunspack Forge v1.3 (1.18.2-1.20.1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb31d3550b78de88be635d723e8be7744b128e43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5707487
+project-id = 1062174

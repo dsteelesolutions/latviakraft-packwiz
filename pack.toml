@@ -1,0 +1,13 @@
+name = "LatviaKraft"
+author = "Steele Solutions"
+version = "20261119"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4fdf0ab6038ddefbd3ead8ea7f4f72b76de3c3132862495fd68dc2c5397ad278"
+
+[versions]
+forge = "47.4.23"
+minecraft = "1.20.1"
